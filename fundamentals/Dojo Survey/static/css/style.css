@@ -1,0 +1,15 @@
+#wrapper{
+    border:2px solid black;
+    border-radius: 5px;
+    box-shadow: 2px;
+    display: inline-block;
+    padding:20px;
+    background-color: #33393e;
+}
+
+.form-group{
+    color:white;
+}
+form h1{
+    color:yellow;
+}
